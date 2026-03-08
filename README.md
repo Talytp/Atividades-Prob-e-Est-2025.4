@@ -4,7 +4,7 @@ Repositório de resoluções de atividades e desafios propostos na disciplina de
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 Atividades-Prob-e-Est-2025.4/
@@ -29,7 +29,7 @@ Atividades-Prob-e-Est-2025.4/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
